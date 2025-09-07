@@ -31,3 +31,13 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-username/BuildingABrain.git
 cd BuildingABrain
+```
+
+
+
+# 👨‍💻 Author
+
+- **Ahmed Gwely**  
+- Passionate about Computer Vision, Embedded Systems, and AI-driven IoT.  
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/ahmed-gwely-2589611b0/)  
+
